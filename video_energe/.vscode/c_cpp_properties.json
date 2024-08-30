@@ -1,0 +1,23 @@
+{
+    "configurations": [
+        {
+            "name": "Linux",
+            "includePath": [
+                "${workspaceFolder}/**",
+                "/opt/ros/humble/include/**",
+                "/usr/include/opencv4",
+                "/usr/include/eigen3",
+                "${workspaceFolder}/src/**",
+                "${workspaceFolder}/install/**",
+                "${workspaceFolder}/build/interfaces/rosidl_generator_cpp",
+                "/opt/ros/humble/include/std_msgs"
+            ],
+            "defines": [],
+            "compilerPath": "/usr/bin/gcc",
+            "cStandard": "c17",
+            "cppStandard": "gnu++17",
+            "intelliSenseMode": "linux-gcc-x64"
+        }
+    ],
+    "version": 4
+}
