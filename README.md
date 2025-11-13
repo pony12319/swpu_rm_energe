@@ -1,4 +1,4 @@
-# rm_energe
+# rm_energy
 
 西南石油大学2024赛季能量机关代码
 
